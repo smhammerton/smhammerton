@@ -10,8 +10,8 @@ main:
 #  - name: About Me 
 #    url: '#about'
 #    weight: 10
-  - name: Portfolio
-    url: '/portfolio'
+  - name: Projects
+    url: '/Projects'
     weight: 20    
   - name: Posts
     url: '/post'
