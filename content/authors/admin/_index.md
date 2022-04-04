@@ -1,5 +1,5 @@
 ---
-bio: I am graduate student working towards an MS in Epidemiology & Biostatistics (emphasis in Epidemiology) and Graduate Certificate in Infectious Disease Epidemiology. I expect to graduate in May of 2022 and being a PhD in June! While this degree will also be in Epidemiology & Biostatistics, my emphasis will now be in data analysis and modeling. I have particular interest and research emphasis in infectious diseases. I am passionate about “real world” implications of public health research and practice on individuals and context‐aware data analytic approaches to answering epidemiological questions. 
+bio: 
 education:
   courses:
   - course: PhD in Epidemiology & Biostatistics 
@@ -42,7 +42,6 @@ superuser: true
 title: Savannah Hammerton
 ---
 
+I am graduate student working towards an MS in Epidemiology & Biostatistics (emphasis in Epidemiology) and Graduate Certificate in Infectious Disease Epidemiology. I expect to graduate in May of 2022 and being a PhD in June! While this degree will also be in Epidemiology & Biostatistics, my emphasis will now be in data analysis and modeling. I have particular interest and research emphasis in infectious diseases. I am passionate about “real world” implications of public health research and practice on individuals and context‐aware data analytic approaches to answering epidemiological questions. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Hammerton-CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
