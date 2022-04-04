@@ -1,27 +1,27 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I am graduate student working towards an MS in Epidemiology & Biostatistics (emphasis in Epidemiology) and Graduate Certificate in Infectious Disease Epidemiology. I expect to graduate in May of 2022 and being a PhD in June! While this degree will also be in Epidemiology & Biostatistics, my emphasis will now be in data analysis and modeling. I have particular interest and research emphasis in infectious diseases. I am passionate about “real world” implications of public health research and practice on individuals and context‐aware data analytic approaches to answering epidemiological questions. 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD in Epidemiology & Biostatistics 
+    institution: University of Georgia 
+    year: Start Date 2022
+  - course: MS in Epidemiology & Biostatistics
+    institution: University of Georgia 
+    year: Exp. Graduation 2022
+  - course: BS in Health Science 
+    institution: Columbus State University
+    year: 2020
+email: smhammerton@gmail.com
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Infectious Diseases 
+- Transmission Dynamics
+- Public Health Surveillance 
+- Data Analysis and Modeling 
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of Georgia
+  url: https://www.uga.edu/
+role: Graduate Student, Research Assistant in Epidemiology & Biostatistics 
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,7 +42,6 @@ superuser: true
 title: Savannah Hammerton
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
