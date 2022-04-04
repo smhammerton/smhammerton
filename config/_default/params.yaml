@@ -20,8 +20,8 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: savannah.hammerton@uga.edu
-phone: 423 544 24 53
+email: smhammerton@gmail,com
+phone: (423) 544-2453
 address:
   street: 101 Buck Road
   city: Athens
@@ -29,20 +29,20 @@ address:
   postcode: '30602'
   country: United States
   country_code: US
-directions: Enter Miller Hall and go to office 114 
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    link: 'https://twitter.com/smhammerton'
-  - icon: github
-    icon_pack: fab
-    link: 'https://github.com/smhammerton'
-  - icon: comments
-    icon_pack: fas
-    link: 'https://discourse.gohugo.io'
-  - icon: linkedin
-    icon_pack: fab
-    link: 'https://www.linkedin.com/in/smhammerton/'
+#directions: Enter Miller Hall and go to office 114 
+#contact_links:
+#  - icon: twitter
+#    icon_pack: fab
+#    link: 'https://twitter.com/smhammerton'
+#  - icon: github
+#    icon_pack: fab
+#    link: 'https://github.com/smhammerton'
+#  - icon: comments
+#    icon_pack: fas
+#    link: 'https://discourse.gohugo.io'
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: 'https://www.linkedin.com/in/smhammerton/'
 
 # Site header
 
