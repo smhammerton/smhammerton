@@ -1,11 +1,9 @@
 ---
-date: "2016-04-27T00:00:00Z"
-external_link: http://example.org
-image:
-  caption: Photo by Toa Heftiba on Unsplash
-  focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
-tags:
-- Demo
-title: External Project
+date: "2022-04-04T16:53:00Z"
+external_link: https://smhammerton.github.io/SAVANNAHHAMMERTON-MADA-portfolio/index.html
+summary: Course portfolio for Modern Applied Data Analysis 
+tags: ["Portfolio", "Predictive Modeling", "Visualization", "Data analysis", "Data viz"]
+title: Course Portfolio
 ---
+
+This is a portfolio site created during a Modern Applied Data Analysis class I took in Fall of 2021. It has a number of work examples on basic coding, data visualization, and predictive modeling! 
