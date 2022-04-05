@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-#email: smhammerton@gmail.com
+email: smhammerton@gmail.com
 #phone: (423) 544-2453
 #address:
-#  street: 101 Buck Road
-#  city: Athens
-#  region: GA
-#  postcode: '30602'
-#  country: United States
-#  country_code: US
+  street: Office 114 Miller Hall, 101 Buck Road
+  city: Athens
+  region: GA
+  postcode: '30602'
+  country: United States
+  country_code: US
 #directions: Enter Miller Hall and go to office 114 
 #contact_links:
 #  - icon: twitter
