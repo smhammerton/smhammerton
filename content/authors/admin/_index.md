@@ -7,7 +7,7 @@ education:
     year: Start Date 2022
   - course: MS in Epidemiology & Biostatistics
     institution: University of Georgia 
-    year: Exp. Graduation 2022
+    year:  2022
   - course: BS in Health Science 
     institution: Columbus State University
     year: 2020
@@ -39,9 +39,15 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/smhammerton/
 superuser: true
-title: Savannah Hammerton
+title: Savannah Hammerton, MS
 ---
 
-I am graduate student working towards an MS in Epidemiology & Biostatistics (emphasis in Epidemiology) and Graduate Certificate in Infectious Disease Epidemiology. I expect to graduate in May of 2022 and begin my PhD in June! While this degree will also be in Epidemiology & Biostatistics, my emphasis will now be in data analysis and modeling. I have particular interest and research emphasis in infectious diseases. I am passionate about “real world” implications of public health research and practice on individuals and context‐aware data analytic approaches to answering epidemiological questions. 
+# About Me  
+
+Hello there, and welcome to my site! I am a graduate student working towards a PhD in Epidemiology & Biostatistics with an emphasis in Data Analysis and Modeling. I attained my MS, also in Epidemiology & Biostatistics (emphasis in Epidemiology), as well as a Certificate in Infectious Disease Epidemiology in May 2022. I have particular interest and research emphasis in infectious diseases. I am passionate about “real world” implications of public health research and practice on individuals and context‐aware data analytic approaches to answering epidemiological questions. 
+
+When not working or in school, I love textile crafts (knitting, crocheting, cross-stitch/embroidery,  sewing, etc.), hiking, and spending time with my family, dog, and cat! 
+
+Please peruse this sight and feel free to contact me through the contact tab! I am actively working on building this site, so please excuse any errors, messiness, or blank pages! 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Hammerton-CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
