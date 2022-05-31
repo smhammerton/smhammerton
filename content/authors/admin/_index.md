@@ -48,6 +48,6 @@ Hello there, and welcome to my site! I am a graduate student working towards a P
 
 When not working or in school, I love textile crafts (knitting, crocheting, cross-stitch/embroidery,  sewing, etc.), hiking, and spending time with my family, dog, and cat! 
 
-Please peruse this sight and feel free to contact me through the contact tab! I am actively working on building this site, so please excuse any errors, messiness, or blank pages! 
+Please peruse this site and feel free to contact me through the contact tab! I am actively working on building this site, so please excuse any errors, messiness, or blank pages! 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Hammerton-CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
